@@ -8,7 +8,7 @@
     {
       "name" : "Spring Web MVC",
       "description" : "The original Spring web framework built on the Servlet API.",
-      "image" : "https://listz.github.io/js-backend/media/spring.png",
+      "image" : "https://listz.github.io/java-backend/media/spring.png",
       "link" : "https://github.com/spring-projects/spring-framework/tree/master/spring-webmvc",
       "tags" : [
         "Spring", "servlet", "servlet-stack", "dispatcher", "rest", "elastic"
@@ -18,7 +18,7 @@
     {
       "name" : "Struts 2",
       "description" : "A free, open-source, MVC framework for creating elegant, modern Java web applications.",
-      "image" : "https://listz.github.io/js-backend/media/struts.png",
+      "image" : "https://listz.github.io/java-backend/media/struts.png",
       "link" : "https://github.com/apache/struts",
       "tags" : [
         "Apache", "plugins", "rest"
